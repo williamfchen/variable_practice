@@ -11,3 +11,9 @@ temperature = 70.4
 
 tired = true
 full = true
+
+name = "Joe"
+fav_color = "purple"
+
+puts "My name is #{name}"
+puts "My favorite color is #{fav_color}, but more importantaly, my favorite Sprindrift flavor is #{fav_spingdrift}!"
