@@ -8,3 +8,6 @@ socks = 27
 
 weight = 167.5
 temperature = 70.4
+
+tired = true
+full = true
