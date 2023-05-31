@@ -5,3 +5,6 @@ fav_spingdrift = "Lemon"
 age = 32
 computers = 3
 socks = 27
+
+weight = 167.5
+temperature = 70.4
