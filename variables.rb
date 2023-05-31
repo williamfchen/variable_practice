@@ -1,6 +1,6 @@
 name = "Will"
 fav_color = "Black"
-fav_spingdrift = "Lemon"
+fav_spindrift = "Lemon"
 
 age = 32
 computers = 3
@@ -15,5 +15,5 @@ full = true
 name = "Joe"
 fav_color = "purple"
 
-puts "My name is #{name}"
-puts "My favorite color is #{fav_color}, but more importantaly, my favorite Sprindrift flavor is #{fav_spingdrift}!"
+puts "My name is #{name}."
+puts "My favorite color is #{fav_color}, but more importantaly, my favorite Spindrift flavor is #{fav_spindrift}!"
